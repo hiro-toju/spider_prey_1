@@ -1,0 +1,23 @@
+dominant_rank	Sampling_species	
+1	Oxyopes_sertatus	
+2	Argiope_bruennichi	
+3	Tetragnatha_caudicula	
+4	Leucauge_blanda	
+5	Ebrechtella_tricuspidata	
+6	Neoscona_scylloides	
+7	Xysticus_sp.	
+8	Larinia_argiopiformis	
+9	Cyclosa_sedeculata	
+10	Araneidae_sp.1	
+11	Neoscona_mellotteei	
+12	Nephila_clavata	
+13	Mendoza_elongata	
+14	Tetragnatha_praedonia	
+15	Thomisus_labefactus	
+16	Cheiracanthium_japonicum	
+17	Clubiona_sp.	
+18	Araneus_abscissus	
+19	Neriene_radiata	
+		
+		
+		

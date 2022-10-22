@@ -1,0 +1,11 @@
+hunt_mode	number	gr
+sit-and-wait	1	1
+web-weabing	2	1
+active-hunting	3	1
+Attack	4	1
+freeloader	5	1
+sit-and-wait	1	2
+web-weabing	2	2
+active-hunting	3	2
+Attack	4	2
+freeloader	5	2
