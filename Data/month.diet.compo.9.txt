@@ -1,0 +1,5 @@
+	Oxyopes_sertatus	Linyphiidae_sp.5	Ebrechtella_tricuspidata	Xysticus_sp.	Thomisus_labefactus	Tetragnatha_caudicula	Mendoza_elongata	Nephila_clavata	Cheiracanthium_japonicum	Araneus_abscissus	Neoscona_adianta	Neriene_radiata	Clubiona_sp.	Oxytate_striatipes	Larinia_argiopiformis	Lycosidae_sp.1	Argyrodes_bonadea	Salticidae_sp.2	Argiope_amoena	Pardosa_sp.	Tetragnatha_praedonia	Allagelena_opulenta	Salticidae_sp.6	Hypsosinga_pygmaea
+herbivorous	98	0	56	34	0	15	3	2	1	0	0	0	1	2	2	0	0	2	2	4	1	0	0	1
+predatory/parasitic	26	0	8	12	0	1	0	0	0	0	0	0	1	0	0	1	0	1	1	0	0	0	0	0
+detritivorous	133	1	55	35	2	31	12	5	2	1	0	0	3	3	3	1	0	2	1	5	5	2	1	0
+variable	58	0	47	36	0	12	1	1	0	1	1	2	1	8	7	0	2	3	1	1	2	0	0	0

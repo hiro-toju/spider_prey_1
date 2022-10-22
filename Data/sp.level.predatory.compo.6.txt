@@ -1,0 +1,8 @@
+	Argiope_bruennichi	Leucauge_blanda	Tetragnatha_caudicula	Xysticus_sp.	Oxyopes_sertatus	Neoscona_scylloides	Cyclosa_atrata	Nephila_clavata	Tetragnatha_praedonia	Clubiona_sp.	Ebrechtella_tricuspidata	Neoscona_mellotteei	Agelena_silvatica	Neriene_radiata	Parasteatoda_japonica	Thomisus_labefactus	Araneidae_sp.1	Mendoza_elongata	Linyphiidae_sp.5	Salticidae_sp.2	Araneus_abscissus
+Formicidae	1	0	0	4	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	3	0
+Megaspilidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Anthocoridae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ichneumonidae	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hybotidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Braconidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carabidae	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

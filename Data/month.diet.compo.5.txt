@@ -1,0 +1,5 @@
+	Neoscona_scylloides	Neoscona_mellotteei	Tetragnatha_caudicula	Oxyopes_sertatus	Ebrechtella_tricuspidata	Leucauge_blanda	Argiope_bruennichi	Pachygnatha_tenera	Tetragnatha_praedonia	Tetragnatha_squamata	Xysticus_sp.	Neoscona_adianta	Cyclosa_sedeculata	Thomisus_labefactus	Araneidae_sp.1	Diaea_subdola	Clubiona_sp.	Salticidae_sp.1	Araneus_abscissus	Neriene_radiata	Leucauge_celebesiana	Cheiracanthium_japonicum	Hypsosinga_pygmaea	Mendoza_elongata	Agelena_silvatica	Linyphiidae_sp.4	Mimetus_sp.	Cyclosa_atrata	Philodromus_sp.	Ariamnes_cylindrogaster	Theridiidae_sp.
+herbivorous	20	3	5	13	26	6	4	0	1	0	3	4	9	9	2	0	1	5	1	1	0	1	2	2	1	1	1	0	1	0	1
+predatory/parasitic	1	1	2	7	6	7	2	1	0	0	11	0	2	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+detritivorous	25	0	1	9	7	4	6	0	0	3	0	0	17	1	2	0	0	2	1	0	1	0	2	1	0	0	1	1	1	1	0
+variable	23	17	2	5	4	2	4	0	1	0	2	0	2	3	3	1	0	1	3	0	1	0	0	2	2	0	0	0	0	0	0

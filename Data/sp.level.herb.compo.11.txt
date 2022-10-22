@@ -1,0 +1,14 @@
+	Oxyopes_sertatus	Tetragnatha_caudicula	Argiope_amoena	Xysticus_sp.	Leucauge_blanda	Ebrechtella_tricuspidata	Tetragnatha_praedonia	Diaea_subdola	Pardosa_sp.	Oxytate_striatipes	Neriene_radiata
+Cicadellidae	15	2	0	2	0	1	0	0	0	1	0
+Aphididae	35	1	0	12	1	6	0	0	2	5	1
+Chrysomelidae	3	0	0	0	0	0	0	0	0	0	0
+Hormaphididae	1	0	0	0	0	0	0	0	0	0	0
+Aleyrodidae	1	0	0	0	0	0	0	0	0	0	0
+Delphacidae	0	0	0	2	0	1	1	0	0	0	0
+Flatidae	0	0	0	1	0	0	0	0	0	0	0
+Geometridae	0	0	0	0	0	1	0	0	0	0	0
+Hesperiidae	0	0	0	0	0	1	0	0	0	0	0
+Anoeciidae	5	0	0	1	0	0	0	0	0	0	0
+Tenthredinidae	0	0	0	1	0	0	0	0	0	0	0
+Noctuidae	0	0	0	1	0	0	0	0	0	0	0
+Nymphalidae	1	0	0	0	0	0	0	0	0	0	0

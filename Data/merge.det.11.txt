@@ -1,0 +1,15 @@
+hexa_id	family	diet	Oxyopes_sertatus	Tetragnatha_caudicula	Argiope_amoena	Xysticus_sp.	Leucauge_blanda	Ebrechtella_tricuspidata	Tetragnatha_praedonia	Diaea_subdola	Pardosa_sp.	Oxytate_striatipes	Neriene_radiata
+H_0042_Diptera_Chironomus	Chironomidae	detritivorous	1	0	0	3	0	1	0	0	0	0	0
+H_0046_Collembola_Homidia	Entomobryidae	detritivorous	7	0	0	4	0	4	0	0	0	1	0
+H_0159_Diptera_Sciaridae	Sciaridae	detritivorous	0	0	0	0	1	0	0	0	0	0	0
+H_0165_Diptera_Bradysia	Sciaridae	detritivorous	0	0	0	2	0	1	0	1	0	0	0
+H_0197_Diptera_Sciara	Sciaridae	detritivorous	1	0	1	0	0	0	0	1	0	0	0
+H_0201_Diptera_Trichocera	Trichoceridae	detritivorous	0	0	0	1	0	0	0	0	0	0	0
+H_0278_Diptera_Sciara	Sciaridae	detritivorous	1	0	0	0	1	1	0	0	0	0	0
+H_0287_Diptera_Mycetophilidae	Mycetophilidae	detritivorous	1	0	0	0	0	0	0	0	0	0	0
+H_0321_Diptera_Bradysia	Sciaridae	detritivorous	2	0	0	0	0	0	0	0	0	0	0
+H_0570_Diptera_Paratanytarsus	Chironomidae	detritivorous	0	0	0	0	0	0	0	0	0	1	0
+H_0660_Diptera_Mycetophilidae	Mycetophilidae	detritivorous	1	0	0	0	0	0	0	0	0	0	0
+H_0674_Diptera_Dolichosciara	Sciaridae	detritivorous	0	0	0	0	1	0	0	0	0	0	0
+H_1060_Diptera_Sphaeroceridae	Sphaeroceridae	detritivorous	0	1	0	0	0	0	0	0	0	0	0
+H_1093_Diptera_Corynoptera	Sciaridae	detritivorous	1	0	0	0	0	0	0	0	0	0	0

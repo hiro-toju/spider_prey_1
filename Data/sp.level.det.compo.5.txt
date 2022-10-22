@@ -1,0 +1,12 @@
+	Neoscona_scylloides	Neoscona_mellotteei	Tetragnatha_caudicula	Oxyopes_sertatus	Ebrechtella_tricuspidata	Leucauge_blanda	Argiope_bruennichi	Pachygnatha_tenera	Tetragnatha_praedonia	Tetragnatha_squamata	Xysticus_sp.	Neoscona_adianta	Cyclosa_sedeculata	Thomisus_labefactus	Araneidae_sp.1	Diaea_subdola	Clubiona_sp.	Salticidae_sp.1	Araneus_abscissus	Neriene_radiata	Leucauge_celebesiana	Cheiracanthium_japonicum	Hypsosinga_pygmaea	Mendoza_elongata	Agelena_silvatica	Linyphiidae_sp.4	Mimetus_sp.	Cyclosa_atrata	Philodromus_sp.	Ariamnes_cylindrogaster	Theridiidae_sp.
+Chironomidae	3	0	0	0	3	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Entomobryidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lauxaniidae	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Scatopsidae	0	0	0	1	0	0	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sciaridae	17	0	0	3	4	2	4	0	0	1	0	0	17	0	1	0	0	1	0	0	1	0	2	0	0	0	1	1	1	0	0
+Sarcophagidae	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rhinotermitidae	1	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Peripsocidae	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monotomidae	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sphaeroceridae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Latridiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0

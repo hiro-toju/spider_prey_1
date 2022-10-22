@@ -1,0 +1,14 @@
+	Oxyopes_sertatus	Tetragnatha_caudicula	Argiope_amoena	Xysticus_sp.	Leucauge_blanda	Ebrechtella_tricuspidata	Tetragnatha_praedonia	Diaea_subdola	Pardosa_sp.	Oxytate_striatipes	Neriene_radiata
+Formicidae	2	0	0	1	0	0	0	0	0	0	0
+Tachinidae	0	0	0	1	0	0	0	0	0	0	0
+Pteromalidae	1	0	0	0	0	0	0	0	0	0	0
+Coccinellidae	0	0	0	2	0	0	0	0	0	0	0
+Culicidae	5	1	0	0	0	0	0	0	0	1	0
+Anthocoridae	0	0	0	0	1	0	0	0	0	0	0
+Trichogrammatidae	1	0	0	0	0	0	0	0	0	0	0
+Pipunculidae	0	1	0	0	0	0	0	0	0	0	0
+Braconidae	1	0	0	0	1	1	0	0	0	0	0
+Eulophidae	0	0	0	0	1	0	0	0	0	0	0
+Saldidae	1	0	0	0	0	0	0	0	0	0	0
+Cantharidae	0	0	0	1	0	0	0	0	0	0	0
+Diapriidae	0	0	0	1	0	0	0	0	0	0	0

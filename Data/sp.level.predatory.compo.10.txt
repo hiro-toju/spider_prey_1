@@ -1,0 +1,17 @@
+	Oxyopes_sertatus	Tetragnatha_praedonia	Tetragnatha_caudicula	Ebrechtella_tricuspidata	Nephila_clavata	Neoscona_mellotteei	Clubiona_sp.	Diaea_subdola	Xysticus_sp.	Larinia_argiopiformis	Hypsosinga_pygmaea	Mendoza_elongata	Pardosa_sp.	Dolomedes_sp.	Thomisus_labefactus	Sitticus_sp.	Salticidae_sp.1
+Formicidae	11	0	0	0	2	0	0	1	3	0	0	0	0	1	0	0	0
+Anisolabididae	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Tachinidae	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Culicidae	66	2	23	5	0	1	1	0	14	0	0	0	0	0	1	0	0
+Coccinellidae	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Pipunculidae	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chrysopidae	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Braconidae	4	0	0	3	0	0	0	0	2	0	0	0	0	0	0	0	0
+Lithobiidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carabidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eulophidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ceratopogonidae	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mantispidae	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Aphelinidae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sciomyzidae	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Diapriidae	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,6 @@
+hunt_mode	color
+active-hunting	steelblue
+Attack	darkslategray
+freeloader	grey63
+sit-and-wait	lightpink1
+web-weabing	darkseagreen

@@ -1,0 +1,7 @@
+	Oxyopes_sertatus	Tetragnatha_caudicula	Argiope_amoena	Xysticus_sp.	Leucauge_blanda	Ebrechtella_tricuspidata	Tetragnatha_praedonia	Diaea_subdola	Pardosa_sp.	Oxytate_striatipes	Neriene_radiata
+Chironomidae	1	0	0	3	0	1	0	0	0	1	0
+Entomobryidae	7	0	0	4	0	4	0	0	0	1	0
+Sciaridae	5	0	1	2	3	2	0	2	0	0	0
+Trichoceridae	0	0	0	1	0	0	0	0	0	0	0
+Mycetophilidae	2	0	0	0	0	0	0	0	0	0	0
+Sphaeroceridae	0	1	0	0	0	0	0	0	0	0	0

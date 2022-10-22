@@ -1,0 +1,10 @@
+	Argiope_bruennichi	Leucauge_blanda	Tetragnatha_praedonia	Larinia_argiopiformis	Ebrechtella_tricuspidata	Oxyopes_sertatus	Clubiona_sp.	Nephila_clavata	Cyclosa_sedeculata	Xysticus_sp.	Neriene_radiata	Mendoza_elongata	Salticidae_sp.3	Salticidae_sp.6	Sitticus_sp.	Oxytate_striatipes	Myrmarachne_sp.	Thomisus_labefactus	Neoscona_scylloides	Cheiracanthium_japonicum	Araneus_abscissus	Linyphiidae_sp.5	Salticidae_sp.1	Salticidae_sp.2	Cyrtarachne_nagasakiensis	Oxyopes_badius	Neoscona_adianta
+Formicidae	15	18	4	3	3	1	0	0	0	57	0	0	0	2	0	0	1	2	0	0	0	0	0	0	0	0	0
+Anthocoridae	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Trichogrammatidae	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ichneumonidae	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pipunculidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eulophidae	0	7	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tachinidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ceraphronidae	0	10	0	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ceratopogonidae	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

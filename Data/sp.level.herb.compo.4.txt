@@ -1,0 +1,14 @@
+	Ebrechtella_tricuspidata	Leucauge_blanda	Cyclosa_sedeculata	Tetragnatha_caudicula	Cheiracanthium_japonicum	Neoscona_scylloides	Salticidae_sp.6	Oxyopes_sertatus	Diaea_subdola	Neriene_radiata	Mimetus_sp.	Pachygnatha_tenera	Neoscona_adianta	Philodromus_sp.	Salticidae_sp.5	Tetragnatha_squamata	Sitticus_sp.	Tetragnatha_praedonia	Thomisus_labefactus	Mendoza_elongata	Argiope_bruennichi	Neoscona_mellotteei
+Aphididae	4	1	1	1	0	4	0	3	0	4	0	0	0	0	1	0	0	0	1	2	0	0
+Delphacidae	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Curculionidae	3	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Andrenidae	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chrysomelidae	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cicadellidae	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Agromyzidae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Triozidae	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Geometridae	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tephritidae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Noctuidae	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Xyelidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerambycidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

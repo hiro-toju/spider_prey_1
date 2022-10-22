@@ -1,0 +1,13 @@
+hexa_id	family	diet	Argiope_bruennichi	Leucauge_blanda	Tetragnatha_caudicula	Xysticus_sp.	Oxyopes_sertatus	Neoscona_scylloides	Cyclosa_atrata	Nephila_clavata	Tetragnatha_praedonia	Clubiona_sp.	Ebrechtella_tricuspidata	Neoscona_mellotteei	Agelena_silvatica	Neriene_radiata	Parasteatoda_japonica	Thomisus_labefactus	Araneidae_sp.1	Mendoza_elongata	Linyphiidae_sp.5	Salticidae_sp.2	Araneus_abscissus
+H_0020_Hymenoptera_Lasius	Formicidae	predatory/parasitic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+H_0056_Hymenoptera_Dendrocerus.carpenteri	Megaspilidae	predatory/parasitic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+H_0071_Hemiptera_Orius	Anthocoridae	predatory/parasitic	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+H_0138_Hymenoptera_Ichneumonidae	Ichneumonidae	predatory/parasitic	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+H_0255_Hymenoptera_Formica	Formicidae	predatory/parasitic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H_0388_Hymenoptera_Formicidae	Formicidae	predatory/parasitic	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+H_0413_Hymenoptera_Formica	Formicidae	predatory/parasitic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H_0567_Diptera_Platypalpus	Hybotidae	predatory/parasitic	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+H_0568_Hymenoptera_Braconidae	Braconidae	predatory/parasitic	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+H_0612_Hymenoptera_Formica	Formicidae	predatory/parasitic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H_0711_Coleoptera_Carabidae	Carabidae	predatory/parasitic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+H_0896_Hymenoptera_Formicidae	Formicidae	predatory/parasitic	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
