@@ -1,0 +1,2 @@
+"module"	"color"
+"1"	"#8DD3C7"
