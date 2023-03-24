@@ -9,7 +9,7 @@ library(tidyverse)
 
 
 #hunt.type <- read.table('spider_ecology_20220301_2.txt',header=T,sep ='\t',row.names=1)
-# [1] "unidentified"   "sit-and-wait"   "web-weabing"    "active-hunting" "Attack"    [6] "freeloader"  
+# [1] "unidentified"   "sit-and-wait"   "web-weaving"    "active-hunting" "Attack"    [6] "freeloader"  
 #hunt.uni <- unique(hunt.type$hunting_mode)
 
 dominant.spider.sp <- c('Argiope_bruennichi','Tetragnatha_caudicula','Leucauge_blanda','Ebrechtella_tricuspidata','Xysticus_sp.','Larinia_argiopiformis','Neoscona_scylloides','Tetragnatha_praedonia','Nephila_clavata','Mendoza_elongata','Araneidae_sp.1','Neoscona_mellotteei')

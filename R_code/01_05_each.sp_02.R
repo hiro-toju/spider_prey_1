@@ -54,7 +54,7 @@ write.table(cbind(rownames(month.agg.data),splist[[u]]),sprintf('../Data/diet.co
 
 
 hunt.type <- read.table('../Data/spider_ecology_20220301.txt',header=T,sep ='\t',row.names=1)
-# [1] "unidentified"   "sit-and-wait"   "web-weabing"    "active-hunting" "Attack"    [6] "freeloader"  
+# [1] "unidentified"   "sit-and-wait"   "web-weaving"    "active-hunting" "Attack"    [6] "freeloader"  
 hunt.uni <- unique(hunt.type$hunting_mode)
 
 #splist <- c()

@@ -62,7 +62,7 @@ tmp <-spi.eco
 tmp$col <- "grey70"
 
 tmp[tmp[,7]== "sit-and-wait","col"] <-'lightpink1'
-tmp[tmp[,7]=="web-weabing" ,"col"] <-  'darkseagreen'
+tmp[tmp[,7]=="web-weaving" ,"col"] <-  'darkseagreen'
 tmp[tmp[,7]=="active-hunting","col"] <-　'steelblue'
 tmp[tmp[,7]== "Attack" ,"col"] <-    'darkslategray'   
 tmp[tmp[,7]== "freeloader" ,"col"] <-'grey63'
@@ -200,7 +200,7 @@ tmp <- spi.eco
 tmp$col <- "grey70"
 
 tmp[tmp[,7]== "sit-and-wait","col"] <-'lightpink1'
-tmp[tmp[,7]=="web-weabing" ,"col"] <-  'darkseagreen'
+tmp[tmp[,7]=="web-weaving" ,"col"] <-  'darkseagreen'
 tmp[tmp[,7]=="active-hunting","col"] <-　'steelblue'
 tmp[tmp[,7]== "Attack" ,"col"] <-    'darkslategray'   
 tmp[tmp[,7]== "freeloader" ,"col"] <-'grey63'
