@@ -1,0 +1,5 @@
+	Oxyopes_sertatus	Tetragnatha_caudicula	Argiope_amoena	Xysticus_sp.	Leucauge_blanda	Ebrechtella_tricuspidata	Tetragnatha_praedonia	Diaea_subdola	Pardosa_sp.	Oxytate_striatipes	Neriene_radiata
+herbivorous	61	3	0	20	1	10	1	0	2	6	1
+predatory/parasitic	11	2	0	6	3	1	0	0	0	1	0
+detritivorous	15	1	1	10	3	7	0	2	0	2	0
+variable	20	24	0	7	2	5	2	0	0	1	0
