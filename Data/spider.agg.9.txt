@@ -1,6 +1,6 @@
 V1	V2
 Allagelena_opulenta	3
-Araneus_abscissus	1
+Gibbaranea_abscissus	1
 Argiope_amoena	2
 Argyrodes_bonadea	1
 Cheiracanthium_japonicum	4
@@ -15,7 +15,7 @@ Linyphiidae_sp.5	1
 Lycosidae_sp.1	1
 Mendoza_elongata	10
 Neoscona_adianta	2
-Nephila_clavata	14
+Trichonephila_clavata	14
 Neriene_radiata	2
 Oxyopes_sertatus	79
 Oxytate_striatipes	1

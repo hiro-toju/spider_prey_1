@@ -1,4 +1,4 @@
-	Oxyopes_sertatus	Pachygnatha_tenera	Cyclosa_sedeculata	Ebrechtella_tricuspidata	Clubiona_sp.	Salticidae_sp.2	Larinia_argiopiformis	Cheiracanthium_japonicum	Mendoza_elongata	Argiope_bruennichi	Nephila_clavata	Leucauge_blanda	Diaea_subdola	Salticidae_sp.6	Salticidae_sp.5	Thomisus_labefactus	Xysticus_sp.	Araneus_abscissus	Argiope_amoena	Neoscona_mellotteei	Myrmarachne_sp.	Neoscona_scylloides
+	Oxyopes_sertatus	Pachygnatha_tenera	Cyclosa_sedeculata	Ebrechtella_tricuspidata	Clubiona_sp.	Salticidae_sp.2	Larinia_argiopiformis	Cheiracanthium_japonicum	Mendoza_elongata	Argiope_bruennichi	Trichonephila_clavata	Leucauge_blanda	Diaea_subdola	Salticidae_sp.6	Salticidae_sp.5	Thomisus_labefactus	Xysticus_sp.	Gibbaranea_abscissus	Argiope_amoena	Neoscona_mellotteei	Myrmarachne_sp.	Neoscona_scylloides
 herbivorous	15	0	5	10	1	2	1	1	6	9	3	13	3	2	3	6	24	3	3	2	0	1
 predatory/parasitic	6	0	1	4	0	0	0	1	0	4	1	1	2	0	0	1	37	4	0	0	0	0
 detritivorous	8	1	1	5	0	2	1	1	1	1	4	3	0	1	2	4	11	3	1	1	0	0

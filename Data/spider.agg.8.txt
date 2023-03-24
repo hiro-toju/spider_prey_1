@@ -1,5 +1,5 @@
 V1	V2
-Araneus_abscissus	3
+Gibbaranea_abscissus	3
 Argiope_amoena	4
 Argiope_bruennichi	13
 Cheiracanthium_japonicum	6
@@ -13,7 +13,7 @@ Mendoza_elongata	13
 Myrmarachne_sp.	7
 Neoscona_mellotteei	6
 Neoscona_scylloides	2
-Nephila_clavata	19
+Trichonephila_clavata	19
 Neriene_radiata	1
 Oxyopes_sertatus	32
 Pachygnatha_tenera	2

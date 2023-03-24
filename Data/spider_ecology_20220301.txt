@@ -9,7 +9,7 @@ No.	order	Family	genus	species	JapaneseName	ecology	hunting_mode
 8	Araneae	Tetragnathidae	Leucauge	Leucauge_celebesiana	オオシロカネグモ	web-weaving	web-weaving
 9	Araneae	Philodromidae	Philodromus	Philodromus_sp.	エビグモ属	free-living	active-hunting
 10	Araneae	Thomisidae	Thomisus	Thomisus_labefactus	アズチグモ	free-living	sit-and-wait
-11	Araneae	Thomisidae	Xysticus	Xysticus_sp.	カニグモ属	free-living	sit-and-wait
+11	Araneae	Thomisidae	Xysticus	Xysticus_sp.	カニグモ属	free-living	active-hunting
 12	Araneae	Thomisidae	Diaea	Diaea_subdola	コハナグモ	free-living	sit-and-wait
 13	Araneae	Thomisidae	Ebrechtella	Ebrechtella_tricuspidata	ハナグモ	free-living	sit-and-wait
 14	Araneae	Thomisidae	Oxytate	Oxytate_striatipes	ワカバグモ	free-living	sit-and-wait

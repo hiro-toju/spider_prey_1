@@ -1,5 +1,5 @@
 "rownames(output.data)"	"dprime"	"dprime.hosei"	"degree"	"degree.st"	"betweenness"	"class"	"individuals"
-"Araneus_abscissus"	1	0	1	0.0027	0	"spider"	1
+"Gibbaranea_abscissus"	1	0	1	0.0027	0	"spider"	1
 "Argiope_bruennichi"	0.422676634442077	0.577323365557923	119	0.3234	0.3767	"spider"	66
 "Cheiracanthium_japonicum"	0.414216292205381	0.58578370779462	4	0.0109	0.0015	"spider"	2
 "Clubiona_sp."	0.33877904929672	0.66122095070328	12	0.0326	0.0224	"spider"	6
@@ -13,7 +13,7 @@
 "Myrmarachne_sp."	0.563489581789565	0.436510418210435	8	0.0217	0.0147	"spider"	4
 "Neoscona_adianta"	0.591108123418365	0.408891876581635	2	0.0054	0.0054	"spider"	1
 "Neoscona_scylloides"	0.472492887539282	0.527507112460718	1	0.0027	0	"spider"	1
-"Nephila_clavata"	0.490446240242025	0.509553759757975	5	0.0136	0.0076	"spider"	2
+"Trichonephila_clavata"	0.490446240242025	0.509553759757975	5	0.0136	0.0076	"spider"	2
 "Neriene_radiata"	0.149625796545084	0.850374203454916	4	0.0109	0.0036	"spider"	2
 "Oxyopes_badius"	0.401890779860366	0.598109220139634	2	0.0054	0.0017	"spider"	1
 "Oxyopes_sertatus"	0.411315876746918	0.588684123253082	5	0.0136	0.0061	"spider"	2

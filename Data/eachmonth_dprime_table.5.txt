@@ -1,7 +1,7 @@
 "rownames(output.data)"	"dprime"	"dprime.hosei"	"degree"	"degree.st"	"betweenness"	"class"	"individuals"
 "Agelena_silvatica"	0.814768226093717	0.185231773906283	3	0.0142	0.0094	"spider"	1
 "Araneidae_sp.1"	0.574231147525835	0.425768852474165	17	0.0806	0.1325	"spider"	14
-"Araneus_abscissus"	0.805435784785543	0.194564215214457	7	0.0332	0.0382	"spider"	6
+"Gibbaranea_abscissus"	0.805435784785543	0.194564215214457	7	0.0332	0.0382	"spider"	6
 "Argiope_bruennichi"	0.380281890129776	0.619718109870224	12	0.0569	0.0283	"spider"	12
 "Ariamnes_cylindrogaster"	0.809448587573227	0.190551412426773	1	0.0047	0	"spider"	1
 "Cheiracanthium_japonicum"	0.618897175146453	0.381102824853547	1	0.0047	0	"spider"	1
