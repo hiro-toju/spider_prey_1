@@ -1,8 +1,0 @@
-	Ebrechtella_tricuspidata	Leucauge_blanda	Cyclosa_sedeculata	Tetragnatha_caudicula	Cheiracanthium_japonicum	Neoscona_scylloides	Salticidae_sp.6	Oxyopes_sertatus	Diaea_subdola	Neriene_radiata	Mimetus_sp.	Pachygnatha_tenera	Neoscona_adianta	Philodromus_sp.	Salticidae_sp.5	Tetragnatha_squamata	Sitticus_sp.	Tetragnatha_praedonia	Thomisus_labefactus	Mendoza_elongata	Argiope_bruennichi	Neoscona_mellotteei
-Entomobryidae	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-Lauxaniidae	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Sarcophagidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Chironomidae	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-Sciaridae	11	8	14	2	0	5	0	4	2	5	0	0	0	1	0	1	0	0	0	0	1	0
-Mycetophilidae	2	0	1	0	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-Peripsocidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0

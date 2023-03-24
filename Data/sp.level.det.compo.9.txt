@@ -1,8 +1,0 @@
-	Oxyopes_sertatus	Linyphiidae_sp.5	Ebrechtella_tricuspidata	Xysticus_sp.	Thomisus_labefactus	Tetragnatha_caudicula	Mendoza_elongata	Nephila_clavata	Cheiracanthium_japonicum	Araneus_abscissus	Neoscona_adianta	Neriene_radiata	Clubiona_sp.	Oxytate_striatipes	Larinia_argiopiformis	Lycosidae_sp.1	Argyrodes_bonadea	Salticidae_sp.2	Argiope_amoena	Pardosa_sp.	Tetragnatha_praedonia	Allagelena_opulenta	Salticidae_sp.6	Hypsosinga_pygmaea
-Chironomidae	83	1	32	23	2	21	9	5	2	1	0	0	2	2	2	0	0	0	0	3	3	2	1	0
-Ectobiidae	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-Entomobryidae	36	0	10	8	0	7	2	0	0	0	0	0	1	1	1	0	0	0	0	2	2	0	0	0
-Scatopsidae	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Sciaridae	8	0	5	4	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0
-Baetidae	5	0	5	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-Keroplatidae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

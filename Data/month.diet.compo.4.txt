@@ -1,5 +1,0 @@
-	Ebrechtella_tricuspidata	Leucauge_blanda	Cyclosa_sedeculata	Tetragnatha_caudicula	Cheiracanthium_japonicum	Neoscona_scylloides	Salticidae_sp.6	Oxyopes_sertatus	Diaea_subdola	Neriene_radiata	Mimetus_sp.	Pachygnatha_tenera	Neoscona_adianta	Philodromus_sp.	Salticidae_sp.5	Tetragnatha_squamata	Sitticus_sp.	Tetragnatha_praedonia	Thomisus_labefactus	Mendoza_elongata	Argiope_bruennichi	Neoscona_mellotteei
-herbivorous	10	5	7	1	1	5	0	6	1	4	0	1	0	0	1	0	0	0	1	2	0	0
-predatory/parasitic	0	7	1	5	0	3	0	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0
-detritivorous	15	8	16	4	0	6	0	7	2	6	0	0	1	2	0	2	0	0	0	0	1	0
-variable	1	7	3	8	0	4	0	6	1	2	1	1	0	0	0	0	0	3	0	0	1	3

@@ -1,5 +1,0 @@
-	Oxyopes_sertatus	Tetragnatha_praedonia	Tetragnatha_caudicula	Ebrechtella_tricuspidata	Nephila_clavata	Neoscona_mellotteei	Clubiona_sp.	Diaea_subdola	Xysticus_sp.	Larinia_argiopiformis	Hypsosinga_pygmaea	Mendoza_elongata	Pardosa_sp.	Dolomedes_sp.	Thomisus_labefactus	Sitticus_sp.	Salticidae_sp.1
-herbivorous	195	10	13	38	0	0	2	1	57	0	0	4	1	2	4	1	1
-predatory/parasitic	99	3	28	9	2	1	1	1	23	0	0	0	0	1	1	0	0
-detritivorous	125	9	65	41	3	3	3	2	51	2	1	4	3	0	4	0	1
-variable	60	4	37	22	0	1	0	3	34	2	0	2	0	0	0	0	0
